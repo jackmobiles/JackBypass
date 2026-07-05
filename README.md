@@ -1,6 +1,6 @@
-# JackBypasss V4
+# JackBypass
 
-JackBypasss V4 is a KernelSU module designed to optimize the Android environment for a smoother gaming experience in Free Fire by applying system-level tweaks automatically during boot.
+JackBypass is a KernelSU module designed to optimize the Android environment for a smoother gaming experience in Free Fire by applying system-level tweaks automatically during boot.
 
 ## Features
 
