@@ -1,0 +1,27 @@
+#
+127.0.0.1 localhost
+::1 localhost
+127.0.0.1 csoversea.stronghold.freefiremobile.com
+::1 csoversea.stronghold.freefiremobile.com
+127.0.0.1 ff-dr-grtc.freefireind.in
+::1 ff-dr-grtc.freefireind.in
+127.0.0.1 ff-sdk-grtc.freefireind.in
+::1 ff-sdk-grtc.freefireind.in
+127.0.0.1 ff.sdk.grtc.garenanow.com
+::1 ff.sdk.grtc.garenanow.com
+127.0.0.1 ffmmsdk.ggwhitehawk.com
+::1 ffmmsdk.ggwhitehawk.com
+127.0.0.1 firebaselogging-pa.googleapis.com
+::1 firebaselogging-pa.googleapis.com
+127.0.0.1 gin.freefireind.in
+::1 gin.freefireind.in
+127.0.0.1 gin.freefiremobile.com
+::1 gin.freefiremobile.com
+127.0.0.1 goku.gin.freefireind.in
+::1 goku.gin.freefireind.in
+127.0.0.1 goku.k8s.web.freefireind.in
+::1 goku.k8s.web.freefireind.in
+127.0.0.1 rslw0r-inapps.appsflyersdk.com
+::1 rslw0r-inapps.appsflyersdk.com
+127.0.0.1 rslw0r-launches.appsflyersdk.com
+::1 rslw0r-launches.appsflyersdk.com
