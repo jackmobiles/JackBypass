@@ -1,7 +1,7 @@
 id=JackBypass
 name=Free Fire Bypass Anticheat 
-version=v4.0
-versionCode=20266
+version=v4.0.1
+versionCode=05072026
 author=@jackmobiles [telegram]
-Decription= automatic deleted cache + data clear after reboot fix auto blacklist
+decription= automatic deleted cache + data clear after reboot fix auto blacklist
 updateJson=https://raw.githubusercontent.com/jackmobiles/JackBypass/main/update.json
