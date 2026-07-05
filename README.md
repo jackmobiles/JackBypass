@@ -36,4 +36,4 @@ JackBypass is a KernelSU module designed to optimize the Android environment for
 
 This module is intended for educational and customization purposes. Performance and compatibility may vary depending on the device, Android version, kernel, and game updates. The developers are not responsible for any issues resulting from its use.
 
-**Developer:** Aaryan Singh
+**Developer:** JACK MOBILES
